@@ -4,10 +4,16 @@
 
 # jmpa-oss
 
-This is an org for me to play around with projects.
+```diff
++ J - ust
++ M - e
++ P - laying
++ A - round
+```
 
-**jmpa** = **J**ust.**M**e.**P**laying.**A**round
+This is a personal GitHub organization for me to play around with projects.
 
 Features:
-* GitHub Actions for CI/CD.
-* Deploys to AWS.
+* GitHub Actions used for CI/CD.
+* Projects that need to be deployed, are deployed to a personal AWS account.
+* Able to write custom GitHub Actions to handle "standard" workflow (eg. posting to Slack, linting, etc)

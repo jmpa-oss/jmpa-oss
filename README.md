@@ -23,4 +23,4 @@ This is a personal GitHub organization for me to play around with projects.
 > (i.e. posting to Slack, linting, templating, etc.)
 
 🟢 Writing most things myself, unless an offical "thing" is provided.
-> (i.e. like a `GitHub Action` for authing to an AWS account).
+> (i.e. like a `GitHub Action` for authing to an AWS account)

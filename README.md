@@ -4,7 +4,7 @@
 
 # `jmpa-oss`
 
-(`J`ust `M`e `P`laying `A`round)
+(🇯ust 🇲e 🇵laying 🇦round)
 
 This is a personal GitHub organization for me to play around with projects.
 

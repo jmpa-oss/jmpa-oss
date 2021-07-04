@@ -1,19 +1,18 @@
 <p align="center">
-  <img src="./logo.png">
+  <img src="./docs/logo.png">
 </p>
 
-# jmpa-oss
+# `jmpa-oss`
 
-```diff
-+ J - ust
-+ M - e
-+ P - laying
-+ A - round
-```
+> `J`ust `M`e `P`laying `A`round.
 
 This is a personal GitHub organization for me to play around with projects.
 
-**Features:**
-* GitHub Actions used for CI/CD.
-* Projects that need to be deployed, are deployed to a personal AWS account.
-* Able to write custom GitHub Actions to handle "standard" workflow (eg. posting to Slack, linting, etc)
+**Core Ideas:**
+* Using `GitHub Actions` for CI/CD.
+* Using a personal GitHub organization to have private projects with private secrets.
+* Any projects that need to be deployed are deployed to a personal AWS account.
+* Custom `GitHub Actions` can be written to handle "standard" workflow.
+  * (i.e. posting to Slack, linting, templating, etc.)
+* Writing most things myself, unless an offical "thing" is provided.
+  * (i.e. like a `GitHub Action` for authing to an AWS account).

@@ -16,6 +16,8 @@ This is a personal GitHub organization for me to play around with projects.
 
 🟠 Use a personal GitHub organization to have private projects with private secrets.
 
+🔴 Use GitHub Templates to be consistant across multiple repositories.
+
 🔵 Any projects that need to be deployed are deployed to a personal AWS account.
 
 🟣 Custom `GitHub Actions` can be written to handle "standard" workflow.
